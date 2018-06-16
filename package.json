@@ -1,0 +1,32 @@
+{
+  "name": "project",
+  "version": "4.0.1",
+  "description": "digitalhunters site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar Master",
+  "license": "ISC",
+  "devDependencies": {
+    "bourbon": "^5.0.0",
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
